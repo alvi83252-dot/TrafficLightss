@@ -1,0 +1,1 @@
+This project is for when I had developed a code for the robot to perform tasks, that a car would normally do for traffic lights. This was part of a School project, that I had made in 2024/25 and had achieved an A+ for it.
